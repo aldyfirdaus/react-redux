@@ -1,0 +1,39 @@
+{
+    "users" :  [
+        {
+          "id": 1,
+          "nama": "Anjay Sugiono Saputra",
+          "alamat": "Sutoyo S",
+          "umur": "30",
+          "nohp": "089799879796"
+        },
+        {
+          "id": 2,
+          "nama": "Sanjay",
+          "alamat": "Pekauman",
+          "umur": "21",
+          "nohp": "099879696959"
+        },
+        {
+          "id": 3,
+          "nama": "Rudyansyah",
+          "alamat": "Sutoyo S",
+          "umur": "27",
+          "nohp": "088524666778"
+        },
+        {
+          "id": 4,
+          "nama": "Pamungkas",
+          "alamat": "Kayutangi Ujung",
+          "umur": "23",
+          "nohp": "087899887654"
+        },
+        {
+          "id": 5,
+          "nama": "Taher",
+          "alamat": "Handil Bakti",
+          "umur": "32",
+          "nohp": "081376568890"
+        }
+    ]
+}
